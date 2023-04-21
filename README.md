@@ -1,4 +1,6 @@
-Nodemailer App
+
+#Nodemailer App
+
 The Nodemailer App is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. This application allows users to send emails to recipients using the Nodemailer library.
 
 Features
